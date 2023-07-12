@@ -1,0 +1,23 @@
+Links:
+  Web Host: https://codepen.io/
+  Free 3D Models: https://www.cgtrader.com/3d-models?file_types%5B%5D=117&free=1&page=1
+  NFT Marker Creator: https://carnaux.github.io/NFT-Marker-Creator/#/
+
+Need to discuss how websites work (html,css,javascript)
+Need to discuss AR including the different options (image, marker, location)
+
+Project - Image based AR website
+Things we need:
+1. An image to track
+2. A 3D model to display
+3. A web page to connect the two
+4. A Host to visit to see our page
+
+Tools we will use:
+Ar.js
+NFT - Natural Feature Tracking
+glTG=F- Small form fact 3D model format
+
+This site was built using [GitHub Pages](https://pages.github.com/) 
+
+
